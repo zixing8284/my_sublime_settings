@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 ###### See Command：
 
 **`sublime.log_commands(True)`**
+
+**On OSX 10.7+, you should do `defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false` to enable key repeat.
 
 - The packages directory can be found in:
 
@@ -10,9 +11,6 @@
   OS X: ~/Library/Application Support/Subime Text 3/Packages
   Windows: %APPDATA%\\Sublime Text 3
   ```
-=======
-
->>>>>>> 2d9c7341b1547ebcb759ae5ab1d8ab0b12661210
 
 #####  rely:  [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
@@ -53,8 +51,3 @@ Sync Settings:
         "*Thumbs.db",
         "*Color Highlight.cache/*"
     ]
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> 2d9c7341b1547ebcb759ae5ab1d8ab0b12661210
