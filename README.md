@@ -1,8 +1,8 @@
-###### See Command：
+##### See Command：
 
 **`sublime.log_commands(True)`**
 
-**On OSX 10.7+, you should do `defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false` to enable key repeat.
+**On OSX 10.7+, you should do `defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false` to enable key repeat.**
 
 - The packages directory can be found in:
 
@@ -12,15 +12,23 @@
   Windows: %APPDATA%\\Sublime Text 3
   ```
 
-#####  rely:  [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
+----
 
-##### see my Gist for Sublime Text Sync Settings  🌻
+##### rely:  [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
 
-##### for more information: [Syncing](https://packagecontrol.io/docs/syncing) 👦
+ see my Gist for Sublime Text Sync Settings  🌻
 
----
+ for more information: [Syncing](https://packagecontrol.io/docs/syncing) 👦
 
-##### Edited,add manually:
+----
+
+##### My Note:
+
+see: [Note](https://github.com/zixing8284/note/blob/master/stSimplePlugin.md)
+
+----
+
+##### Plugin Edited,add manually:
 
 - [StatusBarTime](https://github.com/zixing8284/sublimetext-StatusBarTime)
 
