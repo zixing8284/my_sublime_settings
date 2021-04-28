@@ -24,7 +24,7 @@
 
 ##### My Note:
 
-see: [Note](https://github.com/zixing8284/note/blob/master/stSimplePlugin.md)
+see: [Note](https://github.com/zixing8284/note/blob/master/stSimpleSet.md)
 
 ----
 
