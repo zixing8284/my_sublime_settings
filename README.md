@@ -36,6 +36,7 @@ see: [Note](https://github.com/zixing8284/note/blob/master/stSimpleSet.md)
 
 - [PogodaStatusBar](https://github.com/zixing8284/PogodaStatusBar)
 
+- [translate-CN](https://github.com/zixing8284/Sublime-Translate)
 ---
 
 WakaTime.sublime-settings (api-key) see my wakatime page
